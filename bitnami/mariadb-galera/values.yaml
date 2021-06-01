@@ -64,7 +64,7 @@ service:
   ## Kubernetes service type and port number
   ##
   type: ClusterIP
-  port: 3306
+  port: 3307
   # clusterIP: None
 
   ## Specify the nodePort value for the LoadBalancer and NodePort service types.
